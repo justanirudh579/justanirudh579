@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Anirudh Malra.
+I am currently a 4th Year Bachelor of Fine arts in Amity University, Noida.
+
 <!--
 **justanirudh579/justanirudh579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
